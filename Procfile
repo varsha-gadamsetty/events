@@ -1,0 +1,1 @@
+web: gunicorn django-eventcalender-master.wsgi --log-file -
